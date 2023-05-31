@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31612.314
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceManager", "DeviceManager\DeviceManager.csproj", "{989C51FB-B173-4E6A-9E75-CEE2967761C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceManager.SampleApp.Shutdown", "DeviceManager.SampleApp.Shutdown\DeviceManager.SampleApp.Shutdown.csproj", "{E3CD8698-7CE4-42AB-BEB0-EBB850DE8B81}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceManager.SampleApp.Shutdown", "DeviceManagerSampleApp\DeviceManager.SampleApp.Shutdown.csproj", "{E3CD8698-7CE4-42AB-BEB0-EBB850DE8B81}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
